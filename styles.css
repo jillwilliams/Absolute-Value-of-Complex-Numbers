@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(lightgreen,darkgreen);
+    margin: 15px 35px 45px 35px;
+    font-size: 1.3rem;
+    color: black;
+    font-family: "Yeon Sung", cursive;
+    letter-spacing: 3px;
+    text-shadow: 1px 1px 1px white;
+}
+h1 {
+    text-align: center;
+}
+/* IMAGES */
+#img1 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 1px green solid;
+    outline: 1px black solid;
+}
+#img2 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 1px green solid;
+    outline: 1px black solid;
+}
+#img3, #img4, #img5, #img6, #img7, #img8, #img9, #img10, #img11, #img12 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 1px green solid;
+    outline: 1px black solid;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+    margin-top: 15px;
+}
